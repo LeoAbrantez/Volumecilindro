@@ -1,7 +1,7 @@
 /*VAR
 altura, raio, pi, volume: Real
 
-        INICIO
+INICIO
 
 Ler altura
 Ler raio
